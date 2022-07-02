@@ -1,4 +1,6 @@
-*config.js
+*Simple_Map/config.js
+*Mapping_Single_Points/config.js
+*Mapping_Multiple_Points/config.js
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
